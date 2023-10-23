@@ -17,5 +17,5 @@
     <a class="transparent light-blue-text text-darken-2" id="5" href="exercicio5.php">
         5<i class="material-icons">edit</i>
     </a>
-    </br>
-    </br>
+    <br>
+    <br>
